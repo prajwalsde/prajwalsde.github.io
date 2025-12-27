@@ -2,7 +2,7 @@
 
 > A modern, responsive, and interactive developer portfolio website featuring a "Nebula Void" theme, scroll animations, and a clean professional UI.
 
-![Portfolio Preview](https://prajwalsde.github.io/) 
+(https://prajwalsde.github.io/) 
 
 ## 📖 About
 This is the source code for my personal portfolio website. It showcases my journey as a **Full Stack & Flutter Developer**, highlighting my projects, technical skills, and professional experience.
